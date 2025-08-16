@@ -1,0 +1,14 @@
+Repo:
+https://github.com/cris-eci/Online-Course-Management-System
+
+Products:
+All products are in the repo: 
+S05. Descripción web app.  (07 Jul - 12 Jul) - description.pdf
+
+S06. Boceto web app.  (14 Jul - 19 Jul) - application draft.pdf
+
+S07. Diseño. (21 Jul - 26 Jul) - design.png
+
+S08. Dudas. (28 Jul - 01 Ago) 
+
+S09. Entrega final proyecto. (04 Ago - 09 Ago) - the entire repo
